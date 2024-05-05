@@ -63,3 +63,11 @@ print(len(num))
 print(max(num))
 print(min(num))
 print(sum(num)/len(num))
+
+# split a list
+quote = "A man is known by the company he keeps."
+print(quote.split())
+print(len(quote))
+quoteStuff = quote.split()
+print(len(quoteStuff))
+print(quoteStuff[3])
