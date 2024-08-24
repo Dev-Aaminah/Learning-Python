@@ -45,5 +45,3 @@ if newString.startswith(checkUser):
     print('Yes, it starts with "{}" :)'.format(checkUser))
 else:
     print('Sorry, it does not start with "{}".'.format(checkUser))
-
-    
